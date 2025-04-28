@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "exchangeId": "Binance",
+            "baseId": "bitcoin",
+            "quoteId": "tether",
+            "baseSymbol": "BTC",
+            "quoteSymbol": "USDT",
+            "volumeUsd24Hr": "1052454026.6015994220800000",
+            "priceUsd": "94330.6106960000000000",
+            "volumePercent": "17.1112453842931043"
+        },
+        {
+            "exchangeId": "BYBIT",
+            "baseId": "bitcoin",
+            "quoteId": "tether",
+            "baseSymbol": "BTC",
+            "quoteSymbol": "USDT",
+            "volumeUsd24Hr": "517449242.1109826442600000",
+            "priceUsd": "94423.2184700000000000",
+            "volumePercent": "8.4129099531957276"
+        }
+    ]
+}

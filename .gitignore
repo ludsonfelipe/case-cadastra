@@ -1,0 +1,16 @@
+src/model/test_models-.py
+src/client/test_client.py
+src/repository/test_repository_history.py
+.env
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.black_cache
+.isort.cache
+terraform/key
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate.backup
+terraform/terraform.tfstate
+terraform/.terraform
+src/repository/SQLite.sql
+local.db
